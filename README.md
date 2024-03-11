@@ -1,0 +1,2 @@
+# Economic-Growth-Explorer-Comparative-Analysis-of-GDP-Dynamics
+The "Economic Growth Explorer" repository hosts a comprehensive Python-based project focused on analyzing and comparing GDP dynamics across multiple countries. This project provides a robust framework for conducting comparative analyses of economic growth rates, enabling users to gain valuable insights into global economic trends and patterns.
