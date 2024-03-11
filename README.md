@@ -8,15 +8,15 @@ Plotly Express is utilized for creating dynamic and interactive visualizations o
 plotly.offline and plotly.io these modules are used to generate and save interactive Plotly plots as HTML files locally. They allow users to visualize GDP data and explore insights offline without the need for an internet connection. Additionally, they enable you to export plots for sharing or embedding in documents, presentations, or web pages.
 The os module is utilized to perform file operations such as creating directories, checking file existence, and managing file paths within your project. It helps organize project files and manage the output of visualizations generated during the analysis of GDP data.
 # Finding
-##How many unique Countries Data we're having in the dataset?
-##How many years of Data we're having for India
-##Whats the world GDP in 1969?
-##Whats the % of GDP growth of India in Year 1994 (*as compare to 1993)?
-##Find GDP Growth of India from 1960 - 2016
-##Create a new columns named as GDP which shows the GDP growth of each country for that year
-##Create a graph of GDP Growth of India from 1960 - 2016
-##Analysing Arab World
-##Finding GDP Growth of a country
-##Finding GDP Growth of Every country
-##GDP of Each Country WRT 80T
+## How many unique Countries Data we're having in the dataset?
+## ow many years of Data we're having for India
+## Whats the world GDP in 1969?
+## Whats the % of GDP growth of India in Year 1994 (*as compare to 1993)?
+## Find GDP Growth of India from 1960 - 2016
+## Create a new columns named as GDP which shows the GDP growth of each country for that year
+## Create a graph of GDP Growth of India from 1960 - 2016
+## Analysing Arab World
+## Finding GDP Growth of a country
+## Finding GDP Growth of Every country
+## GDP of Each Country WRT 80T
 
